@@ -39,7 +39,7 @@ h1 {
     letter-spacing: 2px;
     padding-bottom: 10px;
     margin-bottom: 0px;
-    text-shadow: 2px 0px #A16F6F;
+   
 }
 
 h2 {
@@ -52,7 +52,7 @@ h3 {
   color: #9899B1;
   font-size: 30px;
   line-height: 32px;
-  text-shadow: 4px 0px #000000;
+ 
   padding-bottom: 4px;
 }
 
@@ -889,7 +889,7 @@ footer p {
   }
 
   p {
-    font-size: 5px;
+    font-size: 10px;
   }
 
 }
